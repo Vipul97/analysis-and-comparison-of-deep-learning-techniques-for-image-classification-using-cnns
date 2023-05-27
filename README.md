@@ -3,6 +3,8 @@
 ## Abstract
 Deep learning techniques have been developed to address specific challenges related to image classification. However, selecting the optimal implementation of these techniques for a specific task can be challenging. To better understand CNN’s, we investigate the effects that hyper-parameters have on a model. We primarily examine three aspects of CNN’s: the layer architecture, optimizer, and data augmentation. In particular, different combinations of hyper-parameters are tested, and the accuracy of the models are compared. For convenience, the CIFAR-10 data set is used to train the model, and for efficiency, Ray Tune is used to test different combinations of hyper-parameters.
 
+**View the report [here](https://github.com/Vipul97/analysis-and-comparison-of-deep-learning-techniques-for-image-classification-using-cnns/blob/main/deliverables/analysis_and_comparison_of_deep_learning_techniques_for_image_classification_using_cnns.pdf).**
+
 ## Data Source
 The dataset is available at https://www.cs.toronto.edu/~kriz/cifar.html.
 
